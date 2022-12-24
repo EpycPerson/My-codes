@@ -1,2 +1,5 @@
 # My-codes
- I am new to coding so these are very basic codes 
+ Review my coding journey!
+ 
+ BucketList:
+C Language ✅
